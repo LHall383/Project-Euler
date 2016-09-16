@@ -24,3 +24,8 @@ hs_err_pid*
 *.log
 *.lock
 Eclipse/.metadata/.mylyn/.taskListIndex/segments_1
+
+# Extra Eclipse Directories #
+C:\Users\lahal\OneDrive\Documents\GitHub\Project-Euler\Eclipse\.metadata
+C:\Users\lahal\OneDrive\Documents\GitHub\Project-Euler\Eclipse\.recommenders
+C:\Users\lahal\OneDrive\Documents\GitHub\Project-Euler\Eclipse\RemoteSystemsTempFiles
