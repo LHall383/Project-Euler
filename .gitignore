@@ -20,9 +20,7 @@ hs_err_pid*
 *.properties
 *.xmi
 *.tree
-
-Eclipse/.metadata/.mylyn/.taskListIndex/segments_1
 *.resources
 *.log
-*.prefs
-*.properties
+*.lock
+Eclipse/.metadata/.mylyn/.taskListIndex/segments_1
